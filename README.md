@@ -1,3 +1,3 @@
 # customers
  
-folders that have "test" in their name contain files with testing interfaces or the like ("class.tests" - unit testing of a class)
+in folders that have "test" in their name, files with interface testing or the like are stored ("class.tests" - unit testing of a class)
