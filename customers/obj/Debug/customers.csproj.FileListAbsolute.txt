@@ -1,0 +1,6 @@
+D:\7 семестр\Программная инженерия\курсовая Панов\customers\customers\bin\Debug\customers.dll
+D:\7 семестр\Программная инженерия\курсовая Панов\customers\customers\bin\Debug\customers.pdb
+D:\7 семестр\Программная инженерия\курсовая Панов\customers\customers\obj\Debug\customers.csproj.CoreCompileInputs.cache
+D:\7 семестр\Программная инженерия\курсовая Панов\customers\customers\obj\Debug\customers.dll
+D:\7 семестр\Программная инженерия\курсовая Панов\customers\customers\obj\Debug\customers.pdb
+D:\7 семестр\Программная инженерия\курсовая Панов\customers\customers\obj\Debug\customers.csprojAssemblyReference.cache
